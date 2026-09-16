@@ -8,3 +8,4 @@ Welcome to the Little Lemon Restaurant website repository. This project was crea
 
 --------------------------------------------------------------------------------------------------------------------
 
+<img width="1128" height="934" alt="307563356-c89281ce-be90-4271-a15d-9f44f6153dee" src="https://github.com/user-attachments/assets/ad5965f6-c3bb-4cb3-b183-ff990b78c9e4" />
